@@ -1,0 +1,7 @@
+Longest Compounded Word: ratcatdogcat
+Second Longest Compounded Word: catsdogcats
+Time taken to process: 1.0097026824951172 milli seconds
+
+Longest Compounded Word: ethylenediaminetetraacetates
+Second Longest Compounded Word: electroencephalographically
+Time taken to process: 529.6478271484375 milli seconds
